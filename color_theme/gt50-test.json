@@ -1,0 +1,654 @@
+{
+    "data": [
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/0.jpg",
+            "colors": [
+                "black",
+                "red",
+                "white",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,red,white,gray.",
+            "gt_type": "black, red, white, gray",
+            "img_id": "static_colors_5bffb3498caf671e1c075106"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/1.jpg",
+            "colors": [
+                "white",
+                "yellow",
+                "black",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,yellow,black,orange.",
+            "gt_type": "white, yellow, black, orange",
+            "img_id": "static_colors_5c7e487f85ea3c16f900f296"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/2.jpg",
+            "colors": [
+                "white",
+                "orange",
+                "rose",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,orange,rose,gray.",
+            "gt_type": "white, orange, rose, gray",
+            "img_id": "static_colors_5dad76a7abc8ea6d1c95000e"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/3.jpg",
+            "colors": [
+                "black",
+                "white",
+                "rose",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,rose,gray.",
+            "gt_type": "black, white, rose, gray",
+            "img_id": "static_colors_5b27b8f61eb1c99e2ab9474e"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/4.jpg",
+            "colors": [
+                "black",
+                "white",
+                "rose",
+                "azure"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,rose,azure.",
+            "gt_type": "black, white, rose, azure",
+            "img_id": "static_colors_5952561195a7a863ddcde2dc"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/5.jpg",
+            "colors": [
+                "white",
+                "black",
+                "gray",
+                "azure"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,black,gray,azure.",
+            "gt_type": "white, black, gray, azure",
+            "img_id": "static_colors_58b02e5095a7a863ddcc9390"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/6.jpg",
+            "colors": [
+                "rose",
+                "cyan",
+                "white",
+                "blue"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:rose,cyan,white,blue.",
+            "gt_type": "rose, cyan, white, blue",
+            "img_id": "static_colors_5da5bfdcabc8ea6d1c4ce60b"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/7.jpg",
+            "colors": [
+                "black",
+                "white",
+                "orange",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,orange,gray.",
+            "gt_type": "black, white, orange, gray",
+            "img_id": "static_colors_5ee9cd6b499b85dcc7af75ac"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/8.jpg",
+            "colors": [
+                "black",
+                "orange",
+                "white",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,orange,white,gray.",
+            "gt_type": "black, orange, white, gray",
+            "img_id": "static_colors_588a0efd95a7a863ddcc43c9"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/9.jpg",
+            "colors": [
+                "azure",
+                "white",
+                "rose",
+                "yellow"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:azure,white,rose,yellow.",
+            "gt_type": "azure, white, rose, yellow",
+            "img_id": "static_colors_5a13faffd8141396fe9968a2"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/10.jpg",
+            "colors": [
+                "gray",
+                "white",
+                "yellow",
+                "cyan"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:gray,white,yellow,cyan.",
+            "gt_type": "gray, white, yellow, cyan",
+            "img_id": "static_colors_5f8866b3a637ee11e38265b1"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/11.jpg",
+            "colors": [
+                "black",
+                "white",
+                "gray",
+                "yellow"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,gray,yellow.",
+            "gt_type": "black, white, gray, yellow",
+            "img_id": "static_colors_5a13fac1d8141396fe99686e"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/12.jpg",
+            "colors": [
+                "white",
+                "gray",
+                "black",
+                "azure"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,gray,black,azure.",
+            "gt_type": "white, gray, black, azure",
+            "img_id": "static_colors_58b56abc95a7a863ddcca69c"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/13.jpg",
+            "colors": [
+                "white",
+                "gray",
+                "black",
+                "rose"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,gray,black,rose.",
+            "gt_type": "white, gray, black, rose",
+            "img_id": "static_colors_592816f595a7a863ddcd954a"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/14.jpg",
+            "colors": [
+                "white",
+                "gray",
+                "black",
+                "spring green"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,gray,black,spring green.",
+            "gt_type": "white, gray, black, spring green",
+            "img_id": "static_colors_5952497f95a7a863ddcddfd4"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/15.jpg",
+            "colors": [
+                "orange",
+                "gray",
+                "white",
+                "black"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:orange,gray,white,black.",
+            "gt_type": "orange, gray, white, black",
+            "img_id": "static_colors_5f92a585a637ee11e358db39"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/16.jpg",
+            "colors": [
+                "black",
+                "white",
+                "rose",
+                "azure"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,rose,azure.",
+            "gt_type": "black, white, rose, azure",
+            "img_id": "static_colors_5c1b6ed9133a7853928d0ede"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/17.jpg",
+            "colors": [
+                "orange",
+                "white",
+                "black",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:orange,white,black,gray.",
+            "gt_type": "orange, white, black, gray",
+            "img_id": "static_colors_592d1a1c95a7a863ddcd979b"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/18.jpg",
+            "colors": [
+                "black",
+                "white",
+                "rose",
+                "red"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,rose,red.",
+            "gt_type": "black, white, rose, red",
+            "img_id": "static_colors_589b0ee595a7a863ddcc4754"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/19.jpg",
+            "colors": [
+                "black",
+                "orange",
+                "white",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,orange,white,gray.",
+            "gt_type": "black, orange, white, gray",
+            "img_id": "static_colors_589dd59d95a7a863ddcc5c02"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/20.jpg",
+            "colors": [
+                "azure",
+                "white",
+                "black",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:azure,white,black,gray.",
+            "gt_type": "azure, white, black, gray",
+            "img_id": "static_colors_5ae995c04b568b8eec03e4e6"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/21.jpg",
+            "colors": [
+                "black",
+                "yellow",
+                "gray",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,yellow,gray,orange.",
+            "gt_type": "black, yellow, gray, orange",
+            "img_id": "static_colors_5f97d1eba637ee11e33257c9"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/22.jpg",
+            "colors": [
+                "black",
+                "white",
+                "gray",
+                "rose"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,gray,rose.",
+            "gt_type": "black, white, gray, rose",
+            "img_id": "static_colors_58affecb95a7a863ddcc8f65"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/23.jpg",
+            "colors": [
+                "white",
+                "black",
+                "orange",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,black,orange,gray.",
+            "gt_type": "white, black, orange, gray",
+            "img_id": "static_colors_5d9f29b7abc8ea6d1cbbb10f"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/24.jpg",
+            "colors": [
+                "black",
+                "violet",
+                "gray",
+                "white"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,violet,gray,white.",
+            "gt_type": "black, violet, gray, white",
+            "img_id": "static_colors_5da734d2abc8ea6d1cc4e91d"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/25.jpg",
+            "colors": [
+                "rose",
+                "black",
+                "white",
+                "yellow"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:rose,black,white,yellow.",
+            "gt_type": "rose, black, white, yellow",
+            "img_id": "static_colors_5d67e791cf657b21ef76a647"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/26.jpg",
+            "colors": [
+                "yellow",
+                "gray",
+                "black",
+                "white"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:yellow,gray,black,white.",
+            "gt_type": "yellow, gray, black, white",
+            "img_id": "static_colors_5a033f14d8141396fe989544"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/27.jpg",
+            "colors": [
+                "white",
+                "orange",
+                "azure",
+                "cyan"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,orange,azure,cyan.",
+            "gt_type": "white, orange, azure, cyan",
+            "img_id": "static_colors_5ce2aee57d4459dfe1594d34"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/28.jpg",
+            "colors": [
+                "black",
+                "white",
+                "gray",
+                "rose"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,gray,rose.",
+            "gt_type": "black, white, gray, rose",
+            "img_id": "static_colors_58afff2f95a7a863ddcc8fd2"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/29.jpg",
+            "colors": [
+                "white",
+                "black",
+                "orange",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,black,orange,gray.",
+            "gt_type": "white, black, orange, gray",
+            "img_id": "static_colors_58b02ec295a7a863ddcc93db"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/30.jpg",
+            "colors": [
+                "black",
+                "azure",
+                "white",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,azure,white,gray.",
+            "gt_type": "black, azure, white, gray",
+            "img_id": "static_colors_5e0216ed9fea0cc374209581"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/31.jpg",
+            "colors": [
+                "gray",
+                "black",
+                "white",
+                "cyan"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:gray,black,white,cyan.",
+            "gt_type": "gray, black, white, cyan",
+            "img_id": "static_colors_5a996a92f07aee6977a70ed1"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/32.jpg",
+            "colors": [
+                "rose",
+                "black",
+                "white",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:rose,black,white,gray.",
+            "gt_type": "rose, black, white, gray",
+            "img_id": "static_colors_58aef87f95a7a863ddcc8d9f"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/33.jpg",
+            "colors": [
+                "yellow",
+                "azure",
+                "gray",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:yellow,azure,gray,orange.",
+            "gt_type": "yellow, azure, gray, orange",
+            "img_id": "static_colors_5d9c815aabc8ea6d1caa8b04"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/34.jpg",
+            "colors": [
+                "black",
+                "white",
+                "azure",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,azure,gray.",
+            "gt_type": "black, white, azure, gray",
+            "img_id": "static_colors_5b9a584b18654940f75ddd0e"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/35.jpg",
+            "colors": [
+                "white",
+                "orange",
+                "black",
+                "red"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,orange,black,red.",
+            "gt_type": "white, orange, black, red",
+            "img_id": "static_colors_58ab185a95a7a863ddcc7818"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/36.jpg",
+            "colors": [
+                "black",
+                "white",
+                "gray",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,gray,orange.",
+            "gt_type": "black, white, gray, orange",
+            "img_id": "static_colors_5db1a7ffabc8ea6d1cdeafa9"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/37.jpg",
+            "colors": [
+                "white",
+                "yellow",
+                "gray",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,yellow,gray,orange.",
+            "gt_type": "white, yellow, gray, orange",
+            "img_id": "static_colors_589b26de95a7a863ddcc4aa6"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/38.jpg",
+            "colors": [
+                "yellow",
+                "black",
+                "white",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:yellow,black,white,orange.",
+            "gt_type": "yellow, black, white, orange",
+            "img_id": "static_colors_5da70892abc8ea6d1c682a63"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/39.jpg",
+            "colors": [
+                "black",
+                "white",
+                "gray",
+                "yellow"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,gray,yellow.",
+            "gt_type": "black, white, gray, yellow",
+            "img_id": "static_colors_5d68e55ce79a2a634eb17b0c"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/40.jpg",
+            "colors": [
+                "white",
+                "rose",
+                "black",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,rose,black,gray.",
+            "gt_type": "white, rose, black, gray",
+            "img_id": "static_colors_5952640895a7a863ddcde78a"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/41.jpg",
+            "colors": [
+                "gray",
+                "azure",
+                "yellow",
+                "white"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:gray,azure,yellow,white.",
+            "gt_type": "gray, azure, yellow, white",
+            "img_id": "static_colors_5b8567591cc8aa5429259e67"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/42.jpg",
+            "colors": [
+                "orange",
+                "black",
+                "white",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:orange,black,white,gray.",
+            "gt_type": "orange, black, white, gray",
+            "img_id": "static_colors_5dd7b76a9fea0cc374cc080a"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/43.jpg",
+            "colors": [
+                "black",
+                "white",
+                "gray",
+                "rose"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,gray,rose.",
+            "gt_type": "black, white, gray, rose",
+            "img_id": "static_colors_58aefabd95a7a863ddcc8e45"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/44.jpg",
+            "colors": [
+                "black",
+                "azure",
+                "gray",
+                "white"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,azure,gray,white.",
+            "gt_type": "black, azure, gray, white",
+            "img_id": "static_colors_59535bb195a7a863ddce0f3f"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/45.jpg",
+            "colors": [
+                "black",
+                "white",
+                "rose",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,white,rose,gray.",
+            "gt_type": "black, white, rose, gray",
+            "img_id": "static_colors_592c223195a7a863ddcd967c"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/46.jpg",
+            "colors": [
+                "rose",
+                "white",
+                "black",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:rose,white,black,gray.",
+            "gt_type": "rose, white, black, gray",
+            "img_id": "static_colors_5888dbbb95a7a863ddcc2d27"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/47.jpg",
+            "colors": [
+                "white",
+                "gray",
+                "black",
+                "orange"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,gray,black,orange.",
+            "gt_type": "white, gray, black, orange",
+            "img_id": "static_colors_5947c25695a7a863ddcdda68"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/48.jpg",
+            "colors": [
+                "black",
+                "rose",
+                "white",
+                "red"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:black,rose,white,red.",
+            "gt_type": "black, rose, white, red",
+            "img_id": "static_colors_5928049695a7a863ddcd90d7"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_theme/imgs/49.jpg",
+            "colors": [
+                "white",
+                "black",
+                "rose",
+                "gray"
+            ],
+            "prompt": "Please identify and list the four main colors from the image, which the color names are from these following 15 colors:red, orange, yellow, yellow-green, green, spring green, cyan, azure, blue, violet, magenta, rose, black, white, gray. Answer:",
+            "gt_answer": "The four main colors are:white,black,rose,gray.",
+            "gt_type": "white, black, rose, gray",
+            "img_id": "static_colors_58b010ac95a7a863ddcc91b6"
+        }
+    ]
+}

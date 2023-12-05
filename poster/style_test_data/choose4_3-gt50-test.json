@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/5.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, energetic, fresh, vintage,. Answer:",
+            "gt_answer": "The poster style is closest to the vintage style.",
+            "gt_type": "vintage"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/18.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, elegant, fashion, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/30.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, energetic, mysterious, creative,. Answer:",
+            "gt_answer": "The poster style is closest to the creative style.",
+            "gt_type": "creative"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/38.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  cute, elegant, fashion, mysterious,. Answer:",
+            "gt_answer": "The poster style is closest to the mysterious style.",
+            "gt_type": "mysterious"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/39.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  mysterious, minimalist, futuristic, energetic,. Answer:",
+            "gt_answer": "The poster style is closest to the energetic style.",
+            "gt_type": "energetic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/69.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, futuristic, modern, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/77.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  vintage, fashion, modern, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/85.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  mysterious, futuristic, fashion, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/88.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, mysterious, vintage, fresh,. Answer:",
+            "gt_answer": "The poster style is closest to the fresh style.",
+            "gt_type": "fresh"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/95.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  energetic, mysterious, futuristic, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/108.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, cute, fresh, vintage,. Answer:",
+            "gt_answer": "The poster style is closest to the vintage style.",
+            "gt_type": "vintage"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/140.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, mysterious, cute, modern,. Answer:",
+            "gt_answer": "The poster style is closest to the modern style.",
+            "gt_type": "modern"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/160.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fresh, vintage, cute, energetic,. Answer:",
+            "gt_answer": "The poster style is closest to the energetic style.",
+            "gt_type": "energetic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/199.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fashion, elegant, energetic, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/212.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, cute, futuristic, elegant,. Answer:",
+            "gt_answer": "The poster style is closest to the elegant style.",
+            "gt_type": "elegant"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/218.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, fresh, minimalist, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/224.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, mysterious, romantic, creative,. Answer:",
+            "gt_answer": "The poster style is closest to the creative style.",
+            "gt_type": "creative"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/228.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fresh, futuristic, mysterious, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/244.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, elegant, fashion, creative,. Answer:",
+            "gt_answer": "The poster style is closest to the creative style.",
+            "gt_type": "creative"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/251.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fresh, romantic, elegant, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/266.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fresh, futuristic, cute, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/273.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, minimalist, fresh, vintage,. Answer:",
+            "gt_answer": "The poster style is closest to the vintage style.",
+            "gt_type": "vintage"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/284.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  vintage, cute, mysterious, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/297.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, cute, energetic, modern,. Answer:",
+            "gt_answer": "The poster style is closest to the modern style.",
+            "gt_type": "modern"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/306.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, romantic, energetic, fashion,. Answer:",
+            "gt_answer": "The poster style is closest to the fashion style.",
+            "gt_type": "fashion"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/309.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, vintage, minimalist, elegant,. Answer:",
+            "gt_answer": "The poster style is closest to the elegant style.",
+            "gt_type": "elegant"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/312.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, romantic, elegant, fresh,. Answer:",
+            "gt_answer": "The poster style is closest to the fresh style.",
+            "gt_type": "fresh"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/315.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  vintage, artistic, modern, fresh,. Answer:",
+            "gt_answer": "The poster style is closest to the fresh style.",
+            "gt_type": "fresh"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/316.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, romantic, mysterious, fresh,. Answer:",
+            "gt_answer": "The poster style is closest to the fresh style.",
+            "gt_type": "fresh"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/322.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fresh, minimalist, cute, vintage,. Answer:",
+            "gt_answer": "The poster style is closest to the vintage style.",
+            "gt_type": "vintage"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/326.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  cute, vintage, fresh, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/334.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  cute, minimalist, fresh, artistic,. Answer:",
+            "gt_answer": "The poster style is closest to the artistic style.",
+            "gt_type": "artistic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/344.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  mysterious, cute, elegant, futuristic,. Answer:",
+            "gt_answer": "The poster style is closest to the futuristic style.",
+            "gt_type": "futuristic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/349.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, romantic, vintage, energetic,. Answer:",
+            "gt_answer": "The poster style is closest to the energetic style.",
+            "gt_type": "energetic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/354.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, fashion, energetic, futuristic,. Answer:",
+            "gt_answer": "The poster style is closest to the futuristic style.",
+            "gt_type": "futuristic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/381.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  energetic, mysterious, fresh, minimalist,. Answer:",
+            "gt_answer": "The poster style is closest to the minimalist style.",
+            "gt_type": "minimalist"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/413.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  cute, fresh, energetic, mysterious,. Answer:",
+            "gt_answer": "The poster style is closest to the mysterious style.",
+            "gt_type": "mysterious"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/420.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, fashion, elegant, creative,. Answer:",
+            "gt_answer": "The poster style is closest to the creative style.",
+            "gt_type": "creative"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/437.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  energetic, fresh, cute, creative,. Answer:",
+            "gt_answer": "The poster style is closest to the creative style.",
+            "gt_type": "creative"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/451.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, energetic, cute, vintage,. Answer:",
+            "gt_answer": "The poster style is closest to the vintage style.",
+            "gt_type": "vintage"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/467.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  elegant, cute, fresh, mysterious,. Answer:",
+            "gt_answer": "The poster style is closest to the mysterious style.",
+            "gt_type": "mysterious"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/481.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  romantic, fashion, cute, creative,. Answer:",
+            "gt_answer": "The poster style is closest to the creative style.",
+            "gt_type": "creative"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/482.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  fresh, romantic, energetic, mysterious,. Answer:",
+            "gt_answer": "The poster style is closest to the mysterious style.",
+            "gt_type": "mysterious"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/488.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  vintage, fresh, elegant, futuristic,. Answer:",
+            "gt_answer": "The poster style is closest to the futuristic style.",
+            "gt_type": "futuristic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/519.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  modern, futuristic, energetic, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/526.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  mysterious, minimalist, romantic, cute,. Answer:",
+            "gt_answer": "The poster style is closest to the cute style.",
+            "gt_type": "cute"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/546.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  minimalist, cute, fashion, romantic,. Answer:",
+            "gt_answer": "The poster style is closest to the romantic style.",
+            "gt_type": "romantic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/558.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, creative, minimalist, romantic,. Answer:",
+            "gt_answer": "The poster style is closest to the romantic style.",
+            "gt_type": "romantic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/580.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  artistic, futuristic, fresh, romantic,. Answer:",
+            "gt_answer": "The poster style is closest to the romantic style.",
+            "gt_type": "romantic"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/poster/reannotate_poster-v2/imgs/609.jpg",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles:  futuristic, energetic, mysterious, vintage,. Answer:",
+            "gt_answer": "The poster style is closest to the vintage style.",
+            "gt_type": "vintage"
+        }
+    ]
+}

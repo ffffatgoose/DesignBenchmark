@@ -1,0 +1,354 @@
+{
+    "data": [
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/0.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Grid, Typewriter, Comic, Stencil_Army. Answer:",
+            "gt_answer": "The style of the font is Stencil_Army",
+            "gt_type": "Stencil_Army",
+            "font_name": "moshka_stencil.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/1.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Fire_Ice, Distorted, Grid, Eroded. Answer:",
+            "gt_answer": "The style of the font is Eroded",
+            "gt_type": "Eroded",
+            "font_name": "conrad_veidt.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/2.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Old_School, Typewriter, Stencil_Army, Destroy. Answer:",
+            "gt_answer": "The style of the font is Destroy",
+            "gt_type": "Destroy",
+            "font_name": "prefix.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/3.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Decorative, Western, Retro, Horror. Answer:",
+            "gt_answer": "The style of the font is Horror",
+            "gt_type": "Horror",
+            "font_name": "poultryg.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/4.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Typewriter, Destroy, Fire_Ice. Answer:",
+            "gt_answer": "The style of the font is Fire_Ice",
+            "gt_type": "Fire_Ice",
+            "font_name": "snowtopcaps.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/5.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Comic, Horror, Typewriter, Decorative. Answer:",
+            "gt_answer": "The style of the font is Decorative",
+            "gt_type": "Decorative",
+            "font_name": "scandal.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/6.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Typewriter, Comic, Curly, Stencil_Army. Answer:",
+            "gt_answer": "The style of the font is Stencil_Army",
+            "gt_type": "Stencil_Army",
+            "font_name": "ussr_stencil_webfont.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/7.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Initials, Curly, Retro, Comic. Answer:",
+            "gt_answer": "The style of the font is Comic",
+            "gt_type": "Comic",
+            "font_name": "mufferaw_rg.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/8.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Destroy, Typewriter, Comic, Initials. Answer:",
+            "gt_answer": "The style of the font is Initials",
+            "gt_type": "Initials",
+            "font_name": "retrospectivecapitals9.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/9.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Old_School, Cartoon, Distorted, Grid. Answer:",
+            "gt_answer": "The style of the font is Grid",
+            "gt_type": "Grid",
+            "font_name": "rodgauertworounded.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/10.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Comic, Retro, Distorted. Answer:",
+            "gt_answer": "The style of the font is Distorted",
+            "gt_type": "Distorted",
+            "font_name": "josephin.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/11.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Curly, Retro, Distorted, Western. Answer:",
+            "gt_answer": "The style of the font is Western",
+            "gt_type": "Western",
+            "font_name": "bonzer_-_san_francisco.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/12.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Eroded, Cartoon, Groovy, Fire_Ice. Answer:",
+            "gt_answer": "The style of the font is Fire_Ice",
+            "gt_type": "Fire_Ice",
+            "font_name": "abarbequegrill.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/13.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Fire_Ice, Distorted, Decorative, Retro. Answer:",
+            "gt_answer": "The style of the font is Retro",
+            "gt_type": "Retro",
+            "font_name": "titania-regular.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/14.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Initials, Groovy, Cartoon, Eroded. Answer:",
+            "gt_answer": "The style of the font is Eroded",
+            "gt_type": "Eroded",
+            "font_name": "fkr_parklife.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/15.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Old_School, Decorative, Eroded. Answer:",
+            "gt_answer": "The style of the font is Eroded",
+            "gt_type": "Eroded",
+            "font_name": "frail-regular.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/16.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Initials, Decorative, Old_School, Typewriter. Answer:",
+            "gt_answer": "The style of the font is Typewriter",
+            "gt_type": "Typewriter",
+            "font_name": "xtypewriter-regular.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/17.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Distorted, Grid, Destroy. Answer:",
+            "gt_answer": "The style of the font is Destroy",
+            "gt_type": "Destroy",
+            "font_name": "rapture_.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/18.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Typewriter, Stencil_Army, Curly. Answer:",
+            "gt_answer": "The style of the font is Curly",
+            "gt_type": "Curly",
+            "font_name": "columbia_stroke.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/19.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Distorted, Horror, Eroded, Cartoon. Answer:",
+            "gt_answer": "The style of the font is Cartoon",
+            "gt_type": "Cartoon",
+            "font_name": "biscuit_tin.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/20.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Typewriter, Eroded, Curly, Cartoon. Answer:",
+            "gt_answer": "The style of the font is Cartoon",
+            "gt_type": "Cartoon",
+            "font_name": "cosmosca.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/21.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Fire_Ice, Distorted, Horror. Answer:",
+            "gt_answer": "The style of the font is Horror",
+            "gt_type": "Horror",
+            "font_name": "yes!_outlineitalic.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/22.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Old_School, Curly, Grid. Answer:",
+            "gt_answer": "The style of the font is Grid",
+            "gt_type": "Grid",
+            "font_name": "acsf-gallant-5pt.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/23.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Cartoon, Retro, Old_School. Answer:",
+            "gt_answer": "The style of the font is Old_School",
+            "gt_type": "Old_School",
+            "font_name": "sports_world-regular.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/24.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Typewriter, Initials, Horror, Curly. Answer:",
+            "gt_answer": "The style of the font is Curly",
+            "gt_type": "Curly",
+            "font_name": "nockc___.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/25.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Decorative, Old_School, Destroy, Distorted. Answer:",
+            "gt_answer": "The style of the font is Distorted",
+            "gt_type": "Distorted",
+            "font_name": "decompositionphase1.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/26.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Horror, Old_School, Eroded, Western. Answer:",
+            "gt_answer": "The style of the font is Western",
+            "gt_type": "Western",
+            "font_name": "duality.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/27.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Decorative, Groovy, Fire_Ice, Comic. Answer:",
+            "gt_answer": "The style of the font is Comic",
+            "gt_type": "Comic",
+            "font_name": "indiksn_0.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/28.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Western, Eroded, Retro. Answer:",
+            "gt_answer": "The style of the font is Retro",
+            "gt_type": "Retro",
+            "font_name": "boognn__.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/29.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Cartoon, Retro, Initials, Horror. Answer:",
+            "gt_answer": "The style of the font is Horror",
+            "gt_type": "Horror",
+            "font_name": "shlop_rg.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/30.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Initials, Decorative, Old_School, Distorted. Answer:",
+            "gt_answer": "The style of the font is Distorted",
+            "gt_type": "Distorted",
+            "font_name": "experimento.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/31.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Destroy, Stencil_Army, Decorative, Comic. Answer:",
+            "gt_answer": "The style of the font is Comic",
+            "gt_type": "Comic",
+            "font_name": "aablasco.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/32.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Grid, Fire_Ice, Stencil_Army, Decorative. Answer:",
+            "gt_answer": "The style of the font is Decorative",
+            "gt_type": "Decorative",
+            "font_name": "unicorn-sans-light.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/33.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Initials, Curly, Horror, Grid. Answer:",
+            "gt_answer": "The style of the font is Grid",
+            "gt_type": "Grid",
+            "font_name": "stargazer.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/34.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Horror, Curly, Western. Answer:",
+            "gt_answer": "The style of the font is Western",
+            "gt_type": "Western",
+            "font_name": "edmunds.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/35.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Old_School, Curly, Decorative, Stencil_Army. Answer:",
+            "gt_answer": "The style of the font is Stencil_Army",
+            "gt_type": "Stencil_Army",
+            "font_name": "icbmss20.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/36.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Distorted, Old_School, Initials. Answer:",
+            "gt_answer": "The style of the font is Initials",
+            "gt_type": "Initials",
+            "font_name": "formogramsquarish.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/37.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Fire_Ice, Groovy, Initials, Retro. Answer:",
+            "gt_answer": "The style of the font is Retro",
+            "gt_type": "Retro",
+            "font_name": "niaisage.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/38.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Cartoon, Retro, Old_School. Answer:",
+            "gt_answer": "The style of the font is Old_School",
+            "gt_type": "Old_School",
+            "font_name": "hollywoodhills.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/39.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Grid, Destroy, Decorative, Typewriter. Answer:",
+            "gt_answer": "The style of the font is Typewriter",
+            "gt_type": "Typewriter",
+            "font_name": "tippa.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/40.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Destroy, Cartoon, Decorative, Fire_Ice. Answer:",
+            "gt_answer": "The style of the font is Fire_Ice",
+            "gt_type": "Fire_Ice",
+            "font_name": "chp-fire.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/41.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Typewriter, Retro, Old_School, Groovy. Answer:",
+            "gt_answer": "The style of the font is Groovy",
+            "gt_type": "Groovy",
+            "font_name": "husky_stash.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/42.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Cartoon, Fire_Ice, Destroy. Answer:",
+            "gt_answer": "The style of the font is Destroy",
+            "gt_type": "Destroy",
+            "font_name": "bdbrocke.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/43.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Stencil_Army, Old_School, Eroded, Decorative. Answer:",
+            "gt_answer": "The style of the font is Decorative",
+            "gt_type": "Decorative",
+            "font_name": "furiousridegrotesquebook.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/44.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Western, Fire_Ice, Horror, Groovy. Answer:",
+            "gt_answer": "The style of the font is Groovy",
+            "gt_type": "Groovy",
+            "font_name": "sunscreen-pentaline.otf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/45.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Comic, Distorted, Old_School, Typewriter. Answer:",
+            "gt_answer": "The style of the font is Typewriter",
+            "gt_type": "Typewriter",
+            "font_name": "aflfont.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/46.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Destroy, Cartoon, Eroded, Curly. Answer:",
+            "gt_answer": "The style of the font is Curly",
+            "gt_type": "Curly",
+            "font_name": "jd_ducky.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/47.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Western, Retro, Old_School, Groovy. Answer:",
+            "gt_answer": "The style of the font is Groovy",
+            "gt_type": "Groovy",
+            "font_name": "disco1__.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/48.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Groovy, Distorted, Cartoon, Initials. Answer:",
+            "gt_answer": "The style of the font is Initials",
+            "gt_type": "Initials",
+            "font_name": "gothica.ttf"
+        },
+        {
+            "img_path": "/home/v-jierulin/llm-datasets/font_style/imgs/49.png",
+            "prompt": "Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Curly, Destroy, Stencil_Army, Cartoon. Answer:",
+            "gt_answer": "The style of the font is Cartoon",
+            "gt_type": "Cartoon",
+            "font_name": "lambadadexter.ttf"
+        }
+    ]
+}
