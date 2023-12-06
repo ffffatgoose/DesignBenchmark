@@ -1,0 +1,1904 @@
+{
+    "data": [
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/766.jpg",
+            "options": [
+                "the diadem of ravenclaw",
+                "sweet candy",
+                "mint marine"
+            ],
+            "gt_type": "summer orange",
+            "RGB_palette": [
+                [
+                    249,
+                    159,
+                    0
+                ],
+                [
+                    253,
+                    130,
+                    26
+                ],
+                [
+                    208,
+                    90,
+                    69
+                ],
+                [
+                    234,
+                    147,
+                    39
+                ],
+                [
+                    249,
+                    178,
+                    71
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to summer orange",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: summer orange, the diadem of ravenclaw, sweet candy, mint marine. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/52.jpg",
+            "options": [
+                "serbia",
+                "medical",
+                "gun"
+            ],
+            "gt_type": "sugar and cream",
+            "RGB_palette": [
+                [
+                    188,
+                    200,
+                    137
+                ],
+                [
+                    226,
+                    208,
+                    138
+                ],
+                [
+                    221,
+                    154,
+                    154
+                ],
+                [
+                    221,
+                    149,
+                    119
+                ],
+                [
+                    219,
+                    161,
+                    100
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to sugar and cream",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: sugar and cream, serbia, medical, gun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/697.jpg",
+            "options": [
+                "coagulated blood",
+                "aquamarine nights",
+                "old coffee"
+            ],
+            "gt_type": "valentine",
+            "RGB_palette": [
+                [
+                    255,
+                    200,
+                    200
+                ],
+                [
+                    221,
+                    221,
+                    221
+                ],
+                [
+                    204,
+                    204,
+                    204
+                ],
+                [
+                    255,
+                    147,
+                    147
+                ],
+                [
+                    255,
+                    181,
+                    215
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to valentine",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: valentine, coagulated blood, aquamarine nights, old coffee. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/43.jpg",
+            "options": [
+                "gun",
+                "beaten to the pulp",
+                "sweet orange cream"
+            ],
+            "gt_type": "aquamarine nights",
+            "RGB_palette": [
+                [
+                    37,
+                    16,
+                    203
+                ],
+                [
+                    80,
+                    72,
+                    255
+                ],
+                [
+                    86,
+                    145,
+                    249
+                ],
+                [
+                    69,
+                    190,
+                    215
+                ],
+                [
+                    106,
+                    255,
+                    250
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to aquamarine nights",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: aquamarine nights, gun, beaten to the pulp, sweet orange cream. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/882.jpg",
+            "options": [
+                "wooden path",
+                "gun",
+                "autumn high school"
+            ],
+            "gt_type": "watermelon",
+            "RGB_palette": [
+                [
+                    55,
+                    165,
+                    90
+                ],
+                [
+                    106,
+                    208,
+                    104
+                ],
+                [
+                    255,
+                    243,
+                    243
+                ],
+                [
+                    255,
+                    130,
+                    130
+                ],
+                [
+                    251,
+                    85,
+                    85
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to watermelon",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: watermelon, wooden path, gun, autumn high school. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/105.jpg",
+            "options": [
+                "when i was young",
+                "aloe",
+                "sweet orange cream"
+            ],
+            "gt_type": "medical",
+            "RGB_palette": [
+                [
+                    237,
+                    27,
+                    36
+                ],
+                [
+                    35,
+                    64,
+                    142
+                ],
+                [
+                    56,
+                    83,
+                    153
+                ],
+                [
+                    204,
+                    204,
+                    204
+                ],
+                [
+                    255,
+                    255,
+                    255
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to medical",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: medical, when i was young, aloe, sweet orange cream. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/566.jpg",
+            "options": [
+                "sweet candy",
+                "frozen peaches",
+                "dream scape"
+            ],
+            "gt_type": "coagulated blood",
+            "RGB_palette": [
+                [
+                    207,
+                    39,
+                    24
+                ],
+                [
+                    185,
+                    37,
+                    32
+                ],
+                [
+                    149,
+                    0,
+                    0
+                ],
+                [
+                    136,
+                    0,
+                    0
+                ],
+                [
+                    89,
+                    0,
+                    0
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to coagulated blood",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: coagulated blood, sweet candy, frozen peaches, dream scape. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/431.jpg",
+            "options": [
+                "sweet orange cream",
+                "macarons",
+                "summer pop"
+            ],
+            "gt_type": "rotting wood",
+            "RGB_palette": [
+                [
+                    79,
+                    69,
+                    17
+                ],
+                [
+                    190,
+                    186,
+                    94
+                ],
+                [
+                    118,
+                    160,
+                    94
+                ],
+                [
+                    161,
+                    141,
+                    38
+                ],
+                [
+                    201,
+                    209,
+                    106
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to rotting wood",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: rotting wood, sweet orange cream, macarons, summer pop. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/809.jpg",
+            "options": [
+                "serbia",
+                "summer orange",
+                "gun"
+            ],
+            "gt_type": "sweet candy",
+            "RGB_palette": [
+                [
+                    99,
+                    197,
+                    238
+                ],
+                [
+                    89,
+                    170,
+                    232
+                ],
+                [
+                    162,
+                    126,
+                    221
+                ],
+                [
+                    195,
+                    159,
+                    229
+                ],
+                [
+                    255,
+                    181,
+                    226
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to sweet candy",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: sweet candy, serbia, summer orange, gun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/544.jpg",
+            "options": [
+                "rainforest",
+                "rose and violet",
+                "when i was young"
+            ],
+            "gt_type": "sighing",
+            "RGB_palette": [
+                [
+                    229,
+                    191,
+                    195
+                ],
+                [
+                    195,
+                    159,
+                    187
+                ],
+                [
+                    124,
+                    87,
+                    120
+                ],
+                [
+                    73,
+                    32,
+                    69
+                ],
+                [
+                    123,
+                    135,
+                    123
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to sighing",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: sighing, rainforest, rose and violet, when i was young. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/506.jpg",
+            "options": [
+                "serbia",
+                "wooden path",
+                "gryffindor"
+            ],
+            "gt_type": "skin tone",
+            "RGB_palette": [
+                [
+                    255,
+                    227,
+                    161
+                ],
+                [
+                    255,
+                    173,
+                    95
+                ],
+                [
+                    234,
+                    191,
+                    132
+                ],
+                [
+                    255,
+                    205,
+                    147
+                ],
+                [
+                    253,
+                    222,
+                    188
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to skin tone",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: skin tone, serbia, wooden path, gryffindor. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/323.jpg",
+            "options": [
+                "golden greens",
+                "the great redwoods",
+                "rotting wood"
+            ],
+            "gt_type": "macarons",
+            "RGB_palette": [
+                [
+                    247,
+                    226,
+                    147
+                ],
+                [
+                    253,
+                    176,
+                    120
+                ],
+                [
+                    243,
+                    98,
+                    115
+                ],
+                [
+                    240,
+                    240,
+                    240
+                ],
+                [
+                    42,
+                    156,
+                    157
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to macarons",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: macarons, golden greens, the great redwoods, rotting wood. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/156.jpg",
+            "options": [
+                "golden greens",
+                "autumn high school",
+                "serbia"
+            ],
+            "gt_type": "spring glow",
+            "RGB_palette": [
+                [
+                    195,
+                    255,
+                    137
+                ],
+                [
+                    255,
+                    205,
+                    250
+                ],
+                [
+                    167,
+                    140,
+                    140
+                ],
+                [
+                    255,
+                    253,
+                    196
+                ],
+                [
+                    255,
+                    214,
+                    86
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to spring glow",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: spring glow, golden greens, autumn high school, serbia. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/117.jpg",
+            "options": [
+                "the diadem of ravenclaw",
+                "fairytale",
+                "wooden path"
+            ],
+            "gt_type": "orange creamsicle",
+            "RGB_palette": [
+                [
+                    255,
+                    88,
+                    15
+                ],
+                [
+                    255,
+                    126,
+                    38
+                ],
+                [
+                    255,
+                    156,
+                    89
+                ],
+                [
+                    255,
+                    164,
+                    114
+                ],
+                [
+                    255,
+                    201,
+                    157
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to orange creamsicle",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: orange creamsicle, the diadem of ravenclaw, fairytale, wooden path. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/654.jpg",
+            "options": [
+                "spring glow",
+                "so cold",
+                "garden party"
+            ],
+            "gt_type": "the great redwoods",
+            "RGB_palette": [
+                [
+                    129,
+                    35,
+                    35
+                ],
+                [
+                    90,
+                    55,
+                    55
+                ],
+                [
+                    59,
+                    120,
+                    45
+                ],
+                [
+                    57,
+                    165,
+                    53
+                ],
+                [
+                    84,
+                    12,
+                    12
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to the great redwoods",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: the great redwoods, spring glow, so cold, garden party. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/167.jpg",
+            "options": [
+                "spring glow",
+                "aquamarine nights",
+                "moon chases sun"
+            ],
+            "gt_type": "love affair",
+            "RGB_palette": [
+                [
+                    202,
+                    9,
+                    45
+                ],
+                [
+                    202,
+                    9,
+                    61
+                ],
+                [
+                    202,
+                    9,
+                    77
+                ],
+                [
+                    202,
+                    9,
+                    93
+                ],
+                [
+                    202,
+                    9,
+                    109
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to love affair",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: love affair, spring glow, aquamarine nights, moon chases sun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/346.jpg",
+            "options": [
+                "love affair",
+                "falling",
+                "autumn high school"
+            ],
+            "gt_type": "rosebud",
+            "RGB_palette": [
+                [
+                    254,
+                    153,
+                    161
+                ],
+                [
+                    191,
+                    151,
+                    151
+                ],
+                [
+                    175,
+                    229,
+                    216
+                ],
+                [
+                    255,
+                    242,
+                    239
+                ],
+                [
+                    231,
+                    240,
+                    113
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to rosebud",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: rosebud, love affair, falling, autumn high school. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/462.jpg",
+            "options": [
+                "spring glow",
+                "rose sensations of sky",
+                "moon chases sun"
+            ],
+            "gt_type": "golden greens",
+            "RGB_palette": [
+                [
+                    139,
+                    129,
+                    76
+                ],
+                [
+                    90,
+                    83,
+                    49
+                ],
+                [
+                    77,
+                    90,
+                    49
+                ],
+                [
+                    53,
+                    62,
+                    34
+                ],
+                [
+                    73,
+                    81,
+                    56
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to golden greens",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: golden greens, spring glow, rose sensations of sky, moon chases sun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/389.jpg",
+            "options": [
+                "dessert week",
+                "cave of ice",
+                "rose sensations of sky"
+            ],
+            "gt_type": "old coffee",
+            "RGB_palette": [
+                [
+                    122,
+                    113,
+                    99
+                ],
+                [
+                    122,
+                    109,
+                    99
+                ],
+                [
+                    122,
+                    106,
+                    99
+                ],
+                [
+                    122,
+                    102,
+                    99
+                ],
+                [
+                    122,
+                    99,
+                    99
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to old coffee",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: old coffee, dessert week, cave of ice, rose sensations of sky. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/440.jpg",
+            "options": [
+                "aquamarine nights",
+                "coagulated blood",
+                "sweet candy"
+            ],
+            "gt_type": "sweet orange cream",
+            "RGB_palette": [
+                [
+                    255,
+                    218,
+                    174
+                ],
+                [
+                    172,
+                    135,
+                    92
+                ],
+                [
+                    255,
+                    181,
+                    131
+                ],
+                [
+                    243,
+                    244,
+                    207
+                ],
+                [
+                    77,
+                    57,
+                    0
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to sweet orange cream",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: sweet orange cream, aquamarine nights, coagulated blood, sweet candy. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/218.jpg",
+            "options": [
+                "wild rose canyon",
+                "the great redwoods",
+                "gun"
+            ],
+            "gt_type": "baby steps",
+            "RGB_palette": [
+                [
+                    228,
+                    188,
+                    255
+                ],
+                [
+                    255,
+                    243,
+                    204
+                ],
+                [
+                    234,
+                    255,
+                    189
+                ],
+                [
+                    213,
+                    245,
+                    255
+                ],
+                [
+                    255,
+                    218,
+                    253
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to baby steps",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: baby steps, wild rose canyon, the great redwoods, gun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/878.jpg",
+            "options": [
+                "gun",
+                "falling",
+                "gothic"
+            ],
+            "gt_type": "summer pop",
+            "RGB_palette": [
+                [
+                    254,
+                    255,
+                    131
+                ],
+                [
+                    252,
+                    242,
+                    255
+                ],
+                [
+                    210,
+                    247,
+                    255
+                ],
+                [
+                    215,
+                    255,
+                    203
+                ],
+                [
+                    255,
+                    217,
+                    208
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to summer pop",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: summer pop, gun, falling, gothic. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/705.jpg",
+            "options": [
+                "summer pop",
+                "early summer",
+                "baby steps"
+            ],
+            "gt_type": "falling",
+            "RGB_palette": [
+                [
+                    167,
+                    170,
+                    130
+                ],
+                [
+                    111,
+                    160,
+                    165
+                ],
+                [
+                    61,
+                    97,
+                    107
+                ],
+                [
+                    142,
+                    4,
+                    8
+                ],
+                [
+                    30,
+                    39,
+                    32
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to falling",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: falling, summer pop, early summer, baby steps. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/258.jpg",
+            "options": [
+                "garden party",
+                "rose sensations of sky",
+                "early summer"
+            ],
+            "gt_type": "beaten to the pulp",
+            "RGB_palette": [
+                [
+                    138,
+                    0,
+                    0
+                ],
+                [
+                    163,
+                    93,
+                    93
+                ],
+                [
+                    54,
+                    25,
+                    25
+                ],
+                [
+                    217,
+                    196,
+                    196
+                ],
+                [
+                    101,
+                    24,
+                    24
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to beaten to the pulp",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: beaten to the pulp, garden party, rose sensations of sky, early summer. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/141.jpg",
+            "options": [
+                "gun",
+                "summer orange",
+                "beaten to the pulp"
+            ],
+            "gt_type": "mint marine",
+            "RGB_palette": [
+                [
+                    190,
+                    236,
+                    227
+                ],
+                [
+                    184,
+                    226,
+                    216
+                ],
+                [
+                    178,
+                    217,
+                    214
+                ],
+                [
+                    172,
+                    203,
+                    208
+                ],
+                [
+                    167,
+                    192,
+                    199
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to mint marine",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: mint marine, gun, summer orange, beaten to the pulp. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/297.jpg",
+            "options": [
+                "gun",
+                "autumn high school",
+                "the diadem of ravenclaw"
+            ],
+            "gt_type": "dream scape",
+            "RGB_palette": [
+                [
+                    137,
+                    228,
+                    251
+                ],
+                [
+                    240,
+                    248,
+                    255
+                ],
+                [
+                    230,
+                    230,
+                    250
+                ],
+                [
+                    243,
+                    233,
+                    250
+                ],
+                [
+                    219,
+                    136,
+                    241
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to dream scape",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: dream scape, gun, autumn high school, the diadem of ravenclaw. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/667.jpg",
+            "options": [
+                "summer orange",
+                "gothic",
+                "thai tea"
+            ],
+            "gt_type": "cave of ice",
+            "RGB_palette": [
+                [
+                    201,
+                    251,
+                    255
+                ],
+                [
+                    232,
+                    252,
+                    255
+                ],
+                [
+                    111,
+                    65,
+                    53
+                ],
+                [
+                    189,
+                    210,
+                    255
+                ],
+                [
+                    199,
+                    239,
+                    255
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to cave of ice",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: cave of ice, summer orange, gothic, thai tea. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/173.jpg",
+            "options": [
+                "baby steps",
+                "frozen peaches",
+                "summer pop"
+            ],
+            "gt_type": "muddled",
+            "RGB_palette": [
+                [
+                    64,
+                    30,
+                    30
+                ],
+                [
+                    36,
+                    49,
+                    37
+                ],
+                [
+                    25,
+                    24,
+                    56
+                ],
+                [
+                    99,
+                    27,
+                    56
+                ],
+                [
+                    139,
+                    59,
+                    5
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to muddled",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: muddled, baby steps, frozen peaches, summer pop. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/989.jpg",
+            "options": [
+                "gryffindor",
+                "gun",
+                "beaten to the pulp"
+            ],
+            "gt_type": "city of pastel",
+            "RGB_palette": [
+                [
+                    255,
+                    249,
+                    192
+                ],
+                [
+                    255,
+                    209,
+                    209
+                ],
+                [
+                    220,
+                    252,
+                    255
+                ],
+                [
+                    235,
+                    192,
+                    255
+                ],
+                [
+                    255,
+                    196,
+                    196
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to city of pastel",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: city of pastel, gryffindor, gun, beaten to the pulp. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/448.jpg",
+            "options": [
+                "amethyst anathema",
+                "stargazer",
+                "serbia"
+            ],
+            "gt_type": "rose sensations of sky",
+            "RGB_palette": [
+                [
+                    198,
+                    226,
+                    255
+                ],
+                [
+                    255,
+                    228,
+                    225
+                ],
+                [
+                    104,
+                    151,
+                    187
+                ],
+                [
+                    240,
+                    248,
+                    255
+                ],
+                [
+                    238,
+                    238,
+                    238
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to rose sensations of sky",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: rose sensations of sky, amethyst anathema, stargazer, serbia. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/429.jpg",
+            "options": [
+                "sweet candy",
+                "white rose",
+                "after the rain"
+            ],
+            "gt_type": "old farm",
+            "RGB_palette": [
+                [
+                    154,
+                    140,
+                    131
+                ],
+                [
+                    163,
+                    163,
+                    124
+                ],
+                [
+                    182,
+                    123,
+                    100
+                ],
+                [
+                    184,
+                    102,
+                    106
+                ],
+                [
+                    116,
+                    39,
+                    22
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to old farm",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: old farm, sweet candy, white rose, after the rain. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/377.jpg",
+            "options": [
+                "aquamarine nights",
+                "serbia",
+                "when i was young"
+            ],
+            "gt_type": "moon chases sun",
+            "RGB_palette": [
+                [
+                    250,
+                    255,
+                    173
+                ],
+                [
+                    221,
+                    221,
+                    221
+                ],
+                [
+                    14,
+                    0,
+                    49
+                ],
+                [
+                    216,
+                    216,
+                    216
+                ],
+                [
+                    255,
+                    252,
+                    173
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to moon chases sun",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: moon chases sun, aquamarine nights, serbia, when i was young. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/341.jpg",
+            "options": [
+                "city of pastel",
+                "after the rain",
+                "baby steps"
+            ],
+            "gt_type": "stargazer",
+            "RGB_palette": [
+                [
+                    40,
+                    162,
+                    151
+                ],
+                [
+                    255,
+                    241,
+                    0
+                ],
+                [
+                    178,
+                    23,
+                    115
+                ],
+                [
+                    95,
+                    25,
+                    87
+                ],
+                [
+                    57,
+                    7,
+                    58
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to stargazer",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: stargazer, city of pastel, after the rain, baby steps. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/277.jpg",
+            "options": [
+                "moon chases sun",
+                "sunny",
+                "baby steps"
+            ],
+            "gt_type": "amethyst anathema",
+            "RGB_palette": [
+                [
+                    59,
+                    70,
+                    87
+                ],
+                [
+                    76,
+                    70,
+                    87
+                ],
+                [
+                    93,
+                    70,
+                    87
+                ],
+                [
+                    110,
+                    70,
+                    87
+                ],
+                [
+                    127,
+                    70,
+                    87
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to amethyst anathema",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: amethyst anathema, moon chases sun, sunny, baby steps. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/417.jpg",
+            "options": [
+                "aquamarine nights",
+                "white rose",
+                "baby steps"
+            ],
+            "gt_type": "aloe",
+            "RGB_palette": [
+                [
+                    204,
+                    210,
+                    199
+                ],
+                [
+                    169,
+                    187,
+                    143
+                ],
+                [
+                    99,
+                    121,
+                    93
+                ],
+                [
+                    65,
+                    87,
+                    72
+                ],
+                [
+                    41,
+                    57,
+                    51
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to aloe",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: aloe, aquamarine nights, white rose, baby steps. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/12.jpg",
+            "options": [
+                "gun",
+                "muddled",
+                "amethyst anathema"
+            ],
+            "gt_type": "pale peach",
+            "RGB_palette": [
+                [
+                    221,
+                    162,
+                    152
+                ],
+                [
+                    238,
+                    205,
+                    187
+                ],
+                [
+                    246,
+                    241,
+                    208
+                ],
+                [
+                    244,
+                    234,
+                    169
+                ],
+                [
+                    234,
+                    194,
+                    161
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to pale peach",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: pale peach, gun, muddled, amethyst anathema. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/478.jpg",
+            "options": [
+                "watermelon",
+                "autumn high school",
+                "love affair"
+            ],
+            "gt_type": "dessert week",
+            "RGB_palette": [
+                [
+                    255,
+                    139,
+                    218
+                ],
+                [
+                    255,
+                    90,
+                    176
+                ],
+                [
+                    34,
+                    202,
+                    224
+                ],
+                [
+                    113,
+                    231,
+                    224
+                ],
+                [
+                    193,
+                    194,
+                    208
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to dessert week",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: dessert week, watermelon, autumn high school, love affair. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/182.jpg",
+            "options": [
+                "gothic",
+                "muddled",
+                "beaten to the pulp"
+            ],
+            "gt_type": "frozen peaches",
+            "RGB_palette": [
+                [
+                    238,
+                    222,
+                    215
+                ],
+                [
+                    225,
+                    223,
+                    217
+                ],
+                [
+                    213,
+                    224,
+                    219
+                ],
+                [
+                    200,
+                    225,
+                    221
+                ],
+                [
+                    188,
+                    226,
+                    223
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to frozen peaches",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: frozen peaches, gothic, muddled, beaten to the pulp. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/397.jpg",
+            "options": [
+                "beaten to the pulp",
+                "falling",
+                "golden greens"
+            ],
+            "gt_type": "early summer",
+            "RGB_palette": [
+                [
+                    255,
+                    153,
+                    102
+                ],
+                [
+                    255,
+                    204,
+                    153
+                ],
+                [
+                    255,
+                    153,
+                    153
+                ],
+                [
+                    139,
+                    233,
+                    254
+                ],
+                [
+                    153,
+                    255,
+                    255
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to early summer",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: early summer, beaten to the pulp, falling, golden greens. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/513.jpg",
+            "options": [
+                "the diadem of ravenclaw",
+                "dream scape",
+                "baby steps"
+            ],
+            "gt_type": "gun",
+            "RGB_palette": [
+                [
+                    214,
+                    209,
+                    153
+                ],
+                [
+                    11,
+                    0,
+                    4
+                ],
+                [
+                    202,
+                    78,
+                    106
+                ],
+                [
+                    11,
+                    0,
+                    4
+                ],
+                [
+                    214,
+                    209,
+                    153
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to gun",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: gun, the diadem of ravenclaw, dream scape, baby steps. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/125.jpg",
+            "options": [
+                "romantic autumn",
+                "muddled",
+                "gun"
+            ],
+            "gt_type": "dried heart",
+            "RGB_palette": [
+                [
+                    102,
+                    102,
+                    102
+                ],
+                [
+                    123,
+                    123,
+                    123
+                ],
+                [
+                    164,
+                    156,
+                    156
+                ],
+                [
+                    189,
+                    162,
+                    162
+                ],
+                [
+                    219,
+                    198,
+                    198
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to dried heart",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: dried heart, romantic autumn, muddled, gun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/309.jpg",
+            "options": [
+                "serbia",
+                "almost morning",
+                "gun"
+            ],
+            "gt_type": "autumn",
+            "RGB_palette": [
+                [
+                    254,
+                    213,
+                    163
+                ],
+                [
+                    246,
+                    136,
+                    54
+                ],
+                [
+                    251,
+                    193,
+                    175
+                ],
+                [
+                    242,
+                    108,
+                    124
+                ],
+                [
+                    182,
+                    132,
+                    184
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to autumn",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: autumn, serbia, almost morning, gun. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/101.jpg",
+            "options": [
+                "moon chases sun",
+                "baby steps",
+                "almost morning"
+            ],
+            "gt_type": "rose and violet",
+            "RGB_palette": [
+                [
+                    60,
+                    47,
+                    99
+                ],
+                [
+                    90,
+                    72,
+                    110
+                ],
+                [
+                    255,
+                    210,
+                    210
+                ],
+                [
+                    232,
+                    140,
+                    140
+                ],
+                [
+                    187,
+                    70,
+                    70
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to rose and violet",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: rose and violet, moon chases sun, baby steps, almost morning. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/22.jpg",
+            "options": [
+                "rainforest",
+                "sunny",
+                "white rose"
+            ],
+            "gt_type": "almost morning",
+            "RGB_palette": [
+                [
+                    255,
+                    241,
+                    191
+                ],
+                [
+                    184,
+                    216,
+                    231
+                ],
+                [
+                    79,
+                    103,
+                    133
+                ],
+                [
+                    45,
+                    46,
+                    73
+                ],
+                [
+                    37,
+                    32,
+                    51
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to almost morning",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: almost morning, rainforest, sunny, white rose. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/778.jpg",
+            "options": [
+                "wooden path",
+                "autumn high school",
+                "gryffindor"
+            ],
+            "gt_type": "sunny",
+            "RGB_palette": [
+                [
+                    255,
+                    164,
+                    125
+                ],
+                [
+                    255,
+                    192,
+                    129
+                ],
+                [
+                    255,
+                    219,
+                    107
+                ],
+                [
+                    246,
+                    255,
+                    95
+                ],
+                [
+                    250,
+                    255,
+                    170
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to sunny",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: sunny, wooden path, autumn high school, gryffindor. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/557.jpg",
+            "options": [
+                "city of pastel",
+                "aquamarine nights",
+                "dream scape"
+            ],
+            "gt_type": "thai tea",
+            "RGB_palette": [
+                [
+                    255,
+                    193,
+                    37
+                ],
+                [
+                    170,
+                    126,
+                    40
+                ],
+                [
+                    205,
+                    102,
+                    0
+                ],
+                [
+                    47,
+                    79,
+                    79
+                ],
+                [
+                    69,
+                    139,
+                    116
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to thai tea",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: thai tea, city of pastel, aquamarine nights, dream scape. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/66.jpg",
+            "options": [
+                "beaten to the pulp",
+                "stargazer",
+                "wild rose canyon"
+            ],
+            "gt_type": "roses and gold",
+            "RGB_palette": [
+                [
+                    227,
+                    199,
+                    111
+                ],
+                [
+                    227,
+                    187,
+                    125
+                ],
+                [
+                    231,
+                    166,
+                    137
+                ],
+                [
+                    212,
+                    138,
+                    132
+                ],
+                [
+                    206,
+                    114,
+                    137
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to roses and gold",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: roses and gold, beaten to the pulp, stargazer, wild rose canyon. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/444.jpg",
+            "options": [
+                "golden greens",
+                "coagulated blood",
+                "gryffindor"
+            ],
+            "gt_type": "garden party",
+            "RGB_palette": [
+                [
+                    255,
+                    186,
+                    209
+                ],
+                [
+                    255,
+                    245,
+                    239
+                ],
+                [
+                    215,
+                    212,
+                    169
+                ],
+                [
+                    221,
+                    4,
+                    77
+                ],
+                [
+                    255,
+                    184,
+                    173
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to garden party",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: garden party, golden greens, coagulated blood, gryffindor. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/88.jpg",
+            "options": [
+                "autumn high school",
+                "stargazer",
+                "wild rose canyon"
+            ],
+            "gt_type": "white rose",
+            "RGB_palette": [
+                [
+                    255,
+                    121,
+                    121
+                ],
+                [
+                    255,
+                    146,
+                    146
+                ],
+                [
+                    255,
+                    197,
+                    197
+                ],
+                [
+                    255,
+                    225,
+                    225
+                ],
+                [
+                    254,
+                    255,
+                    241
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to white rose",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: white rose, autumn high school, stargazer, wild rose canyon. Answer:"
+        },
+        {
+            "img_path": "/home/v-jierulin/aml/v-jierulin/LLM-bench/datasets/color_meaning/imgs/178.jpg",
+            "options": [
+                "autumn high school",
+                "golden greens",
+                "wild rose canyon"
+            ],
+            "gt_type": "summer",
+            "RGB_palette": [
+                [
+                    255,
+                    228,
+                    122
+                ],
+                [
+                    255,
+                    160,
+                    122
+                ],
+                [
+                    255,
+                    122,
+                    151
+                ],
+                [
+                    122,
+                    255,
+                    161
+                ],
+                [
+                    122,
+                    217,
+                    255
+                ]
+            ],
+            "gt_answer": "The color meaning is closest to summer",
+            "prompt": "Act as a designer, choose the one that is closest to the color palette meaning in this image among the following meanings: summer, autumn high school, golden greens, wild rose canyon. Answer:"
+        }
+    ]
+}
