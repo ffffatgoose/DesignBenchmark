@@ -1,0 +1,1 @@
+Act as a designer or style classifier, choose the one that is closest to the poster style among the following styles: #A#, #B#, #C#, #D#. Answer:
